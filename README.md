@@ -61,7 +61,7 @@ SVG_sigmoid_0_6624.ipynb    # SVM with sigmoid kernel
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/Alighorbani1380/Deep-Learning-Based-Image-Classification
 ```
 
 2. Launch Jupyter and run the notebooks in the following order:
