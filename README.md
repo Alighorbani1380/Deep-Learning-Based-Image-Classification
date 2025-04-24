@@ -38,7 +38,7 @@ SVG_poly_0.7475.ipynb       # SVM with polynomial kernel
 SVG_RBF_0.7563.ipynb        # SVM with RBF kernel
 SVG_sigmoid_0_6624.ipynb    # SVM with sigmoid kernel
 
-
+```
 ## Visualizations
 
 ![image](https://github.com/user-attachments/assets/c033024b-eeca-42cd-911e-f0213605d567)
@@ -106,4 +106,4 @@ This project is shared for academic and learning purposes. You are free to use o
 
 ---
 
-Prepared and maintained by [Ali Ghorbani]
+Prepared and maintained by Ali Ghorbani
