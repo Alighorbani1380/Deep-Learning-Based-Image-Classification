@@ -37,14 +37,13 @@ SVG_linear_0.7453.ipynb     # SVM with linear kernel
 SVG_poly_0.7475.ipynb       # SVM with polynomial kernel
 SVG_RBF_0.7563.ipynb        # SVM with RBF kernel
 SVG_sigmoid_0_6624.ipynb    # SVM with sigmoid kernel
-```
+
 
 ## Visualizations
 
 ![image](https://github.com/user-attachments/assets/c033024b-eeca-42cd-911e-f0213605d567)
 
 
-```markdown
 ### Confusion Matrix (VGG and AlexNet)
 ![image](https://github.com/user-attachments/assets/3d9f07a3-0081-49a3-a5fd-1dcaa60f60a5)
 
